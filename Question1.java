@@ -17,4 +17,5 @@ public class Question1 {
        System.out.println("Maximum element:" + max);
 
      }
+    }
 
